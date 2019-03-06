@@ -1,0 +1,62 @@
+Added Component: Designator=0,1uf(Tu 0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=?(Tu 0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=?(Tu 0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H?(USB-A-RA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P?(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SO16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.irf.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.irf.com/product-info/datasheets/data/ir2110.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "PD60147J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Pins 4, 8 and 14 are not connected"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PDIP14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=X(XT2-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=H?-1
+Added Pin To Net: NetName=5V Pin=P?-4
+Added Pin To Net: NetName=5V Pin=U?-16
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=0,1uf-2
+Added Pin To Net: NetName=GND Pin=?-2
+Added Pin To Net: NetName=GND Pin=?-2
+Added Pin To Net: NetName=GND Pin=H?-4
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Net0,1uf_1 Pin=0,1uf-1
+Added Pin To Net: NetName=Net0,1uf_1 Pin=U?-4
+Added Net: Name=Net0,1uf_1
+Added Pin To Net: NetName=Net?_1 Pin=?-1
+Added Pin To Net: NetName=Net?_1 Pin=U?-7
+Added Pin To Net: NetName=Net?_1 Pin=X-2
+Added Net: Name=Net?_1
+Added Pin To Net: NetName=NetH?_2 Pin=H?-2
+Added Pin To Net: NetName=NetH?_2 Pin=U?-6
+Added Net: Name=NetH?_2
+Added Pin To Net: NetName=NetH?_3 Pin=H?-3
+Added Pin To Net: NetName=NetH?_3 Pin=U?-5
+Added Net: Name=NetH?_3
+Added Pin To Net: NetName=RX Pin=P?-2
+Added Pin To Net: NetName=RX Pin=U?-3
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=P?-3
+Added Pin To Net: NetName=TX Pin=U?-2
+Added Net: Name=TX
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

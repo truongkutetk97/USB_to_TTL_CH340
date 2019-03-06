@@ -1,0 +1,48 @@
+Added Component: Designator=LEDpw2(LED 3512)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LEDpw3(LED 3512)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LEDpw(LED 3512)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=r1(RES-SMD-0101)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=r2(RES-SMD-0101)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=r3(RES-SMD-0101)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LEDpw2-2
+Added Pin To Net: NetName=GND Pin=LEDpw3-2
+Added Pin To Net: NetName=GND Pin=LEDpw-2
+Added Pin To Net: NetName=5V Pin=r1-2
+Added Pin To Net: NetName=RX Pin=r2-2
+Added Pin To Net: NetName=TX Pin=r3-2
+Added Pin To Net: NetName=NetLEDpw2_1 Pin=LEDpw2-1
+Added Pin To Net: NetName=NetLEDpw2_1 Pin=r2-1
+Added Net: Name=NetLEDpw2_1
+Added Pin To Net: NetName=NetLEDpw3_1 Pin=LEDpw3-1
+Added Pin To Net: NetName=NetLEDpw3_1 Pin=r3-1
+Added Net: Name=NetLEDpw3_1
+Added Pin To Net: NetName=NetLEDpw_1 Pin=LEDpw-1
+Added Pin To Net: NetName=NetLEDpw_1 Pin=r1-1
+Added Net: Name=NetLEDpw_1
+Added Member To Class: ClassName=Sheet1 Member=Component LEDpw2 LED
+Added Member To Class: ClassName=Sheet1 Member=Component LEDpw3 LED
+Added Member To Class: ClassName=Sheet1 Member=Component LEDpw LED
+Added Member To Class: ClassName=Sheet1 Member=Component r1 1k5
+Added Member To Class: ClassName=Sheet1 Member=Component r2 1k5
+Added Member To Class: ClassName=Sheet1 Member=Component r3 1k5

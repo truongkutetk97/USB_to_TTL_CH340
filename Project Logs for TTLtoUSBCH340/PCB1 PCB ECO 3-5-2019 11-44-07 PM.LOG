@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=LEDpw Old Footprint=LED 3512 New Footprint=LED-0805-Blue
+Change Component Footprint: Designator=LEDpw2 Old Footprint=LED 3512 New Footprint=LED-0805-Green
+Change Component Footprint: Designator=LEDpw3 Old Footprint=LED 3512 New Footprint=LED-0805-Orange
+Change Component Footprint: Designator=r1 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=r2 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=r3 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0805

@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=? NewDesignator=12
+Change Component Designator: OldDesignator=? NewDesignator=123
+Change Net Name : Old Net Name=Net?_1 New Net Name=Net123_1
+Added Pin To Net: NetName=Net12_1 Pin=12-1
+Added Pin To Net: NetName=Net12_1 Pin=U?-8
+Added Pin To Net: NetName=Net12_1 Pin=X-1
+Added Net: Name=Net12_1
+Added Member To Class: ClassName=Sheet1 Member=Component 12 Tu 0805
